@@ -178,16 +178,16 @@
 
 // alert(`Энг кичик сон: ${numbers[0]}, Энг катта сон: ${numbers[2]}`);
 
-// 15 vazifa
+// // 15 vazifa
 
-let num1 = parseInt(prompt("Биринчи сонни киритинг:"));
-let num2 = parseInt(prompt("Иккинчи сонни киритинг:"));
-let num3 = parseInt(prompt("Учинчи сонни киритинг:"));
+// let num1 = parseInt(prompt("Биринчи сонни киритинг:"));
+// let num2 = parseInt(prompt("Иккинчи сонни киритинг:"));
+// let num3 = parseInt(prompt("Учинчи сонни киритинг:"));
 
-let numbers = [num1, num2, num3];
-numbers.sort((a, b) => b - a);
+// let numbers = [num1, num2, num3];
+// numbers.sort((a, b) => b - a);
 
-let yegindi = numbers[0] + numbers[1];
+// let yegindi = numbers[0] + numbers[1];
 
-alert(`Иккита энг катта сонлар йиғиндиси: ${yegindi}`);
+// alert(`Иккита энг катта сонлар йиғиндиси: ${yegindi}`);
 
